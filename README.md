@@ -4,6 +4,7 @@
 - Само приложение без БД разработано за 1.5 дня...
 ---
 ## Некоторые скрины приложения
+![image](https://github.com/GlarkDen/TripPreparation/assets/90215968/958c46d3-4d2c-42cf-9c78-f430f055ef2e)
 ![image](https://github.com/GlarkDen/TripPreparation/assets/90215968/eb817936-d91b-4859-87c6-3943dca27255)
 ![image](https://github.com/GlarkDen/TripPreparation/assets/90215968/42d7afe1-b913-4aa0-9b2b-f43447777c59)
 ![image](https://github.com/GlarkDen/TripPreparation/assets/90215968/2fef1266-a544-4243-b6b1-ae650b8c2000)
